@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic three.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "this is a background image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My git Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my git learning website where I write about my first  experience and learning in the tech industry.",
+    url: "https://ashutoshthakur27.github.io/MLSC-Learning-git/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Youtube Channel",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this vedio I have explained how I can contribute more in Community as a lead.",
+    url: "https://youtube.com/@ashutoshthakur5617?si=OcTazLuW3x3jdE7y",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "file:///C:/Users/at811/AppData/Local/Microsoft/Windows/INetCache/IE/5YRX349E/White%20and%20Beige%20Minimalist%20Designer%20Professional%20Cv%20Resume%20(1)[1].pdff",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "my Linedin Account",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "here I post my all the achivement which I have earn till date.",
+    url: "https://www.linkedin.com/in/ashutosh-thakur27",
   },
 ];
 
